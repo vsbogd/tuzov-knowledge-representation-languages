@@ -1106,8 +1106,8 @@ f_0(X) = ЕСЛИ R(X,g_1(X)) & R_1(X,g_1(X)) -> g_1(X) ☐
          КЕ
 ```
 
-$$f_0(X)\ =\ \text{ЕСЛИ}\ R(X,g_1(X)) \land R_1(X,g_1(X)) \to g_1(X)\ \hrectangle$$\
-$$\qquad\qquad\qquad R(X,g_2(X)) \land R_2(X,g_2(X)) \to g_2(X)\ \hrectangle$$\
+$$f_0(X)\ =\ \text{ЕСЛИ}\ R(X,g_1(X)) \land R_1(X,g_1(X)) \to g_1(X)\ \Box$$\
+$$\qquad\qquad\qquad R(X,g_2(X)) \land R_2(X,g_2(X)) \to g_2(X)\ \Box$$\
 $$\qquad\qquad\qquad \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots \dots$$\
 $$\qquad\qquad\qquad R(X,g_s(X)) \land R_s(X,g_s(X)) \to g_s(X)$$\
 $$\qquad\text{КЕ}$$
